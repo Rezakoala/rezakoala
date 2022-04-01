@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with money
 - 💬 Ask me about Flutter
-- 📫 How to reach me: <a href="https://instagram.com/rezakoala">Instagram</a
+- 📫 How to reach me: <a href="https://instagram.com/rezakoala">Instagram</a>
 
 <div align="center">
   
